@@ -1,0 +1,152 @@
+PAGINA 1
+  
+ 
+Trabajo Final del 
+Curso 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Aplicaciones 
+para 
+Dispositivos 
+Móviles 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tecnologías de la 
+Información 
+ 
+ 
+ 
+ 
+
+PAGINA 2
+Aplicaciones para Dispositivos Móviles 
+ 
+ 
+1. TEMA 
+Desarrollo de una Aplicación Móvil para Gestión de Tareas. 
+ 
+ 
+2. OBJETIVO 
+Al finalizar el presente trabajo final el estudiante será capaz de diseñar, desarrollar y 
+desplegar aplicaciones móviles efectivas y funcionales para diferentes plataformas móviles, 
+como iOS y Android , cumpliendo las normas técnicas, las normas de seguridad y salud en 
+el trabajo, actuando de manera responsable con el medio ambiente. 
+ 
+ 
+3. CONSIDERACIONES 
+El trabajo final consiste en resolver el caso  práctico presentado, utilizando como referencia 
+el problema planteado y las preguntas guía proporcionadas para orientar el desarrollo. 
+ 
+Los participantes deberán fundamentar sus propuestas en los conocimientos adquiridos a 
+lo largo del curso, aplicando lo  aprendido en las tareas y operaciones descritas en los 
+contenidos curriculares. 
+ 
+ 
+4. CASO PRÁCTICO 
+ 
+Imagina que trabajas como desarrollador de software para una empresa de tecnología que 
+busca ayudar a personas y equipos a organizar mejor sus actividades diarias. La compañía 
+ha identificado que muchas personas tienen dificultades para administrar su tiempo y cumplir 
+con las tareas programadas debido a la falta de herramientas adecuadas. Por lo tanto, se ha 
+propuesto la creación de una aplicación móvil para facilitar la organización personal de 
+tareas de una manera más eficiente, intuitiva y personalizable. 
+La empresa cuenta con un equipo de desarrollo que utiliza tecnologías como Flutter y Dart 
+para crear aplicaciones móviles multiplataforma. La empresa también desea que la 
+aplicación tenga una base de datos en la nube para  asegurar la sincronización entre 
+dispositivos y una interfaz personalizada para que los usuarios puedan modificarla según 
+sus preferencias. 
+ 
+La empresa necesita desarrollar una aplicación móvil que permita a los usuarios gestionar y 
+organizar de manera eficiente sus tareas diarias. La aplicación debe ser capaz de registrar, 
+
+PAGINA 3
+Aplicaciones para Dispositivos Móviles 
+ 
+ 
+editar, eliminar, categorizar y realizar un seguimiento de las tareas asignadas, así como 
+sincronizarlas en tiempo real entre múltiples dispositivos. Además, los usuarios deben poder 
+personalizar la interfaz y recibir notificaciones de recordatorios para sus tareas. 
+ 
+La propuesta que permita solucionar el Caso Práctico debe incluir: 
+ Elaborar un informe con  detalles sobre la estructura de la base de datos, integración de 
+Firebase y las funciones de Flutter que se podrían uti lizar en el desarrollo de una 
+aplicación móvil. 
+ Presentar un diseño preliminar de la interfaz de usuario (puede ser realizado mediante 
+herramientas como Figma o Adobe XD). 
+ Se deben incluir pruebas que demuestren que las tareas se sincronizan correctamente 
+en tiempo real entre dispositivos y que la gestión de tareas funciona según lo esperado. 
+ 
+Evidencias para demostrar la factibilidad del caso práctico: 
+ 
+ Prototipo de interfaz de usuario (UI) en Figma o Adobe XD. 
+ Código fuente de la aplicación (Flutter/Dart) mostrando cómo se gestionan las tareas y la 
+sincronización en la nube. 
+ Pruebas de funcionalidad para asegurarse de que las tareas se sincronizan en tiempo 
+real y que las notificaciones se reciben adecuadamente. 
+ Esquema de la base de datos utilizad a para almacenar las tareas de los usuarios en la 
+nube. 
+ 
+ 
+Gestión de tareas para móviles.  
+
+
+PAGINA 4
+Aplicaciones para Dispositivos Móviles 
+ 
+ 
+5. PREGUNTAS GUÍAS 
+ 
+ El desarrollo de las preguntas guías tienen el propósito de orientar la generación de 
+su propuesta sobre el caso práctico. 
+ 
+1) ¿Qué estrategias utilizarías para garantizar que la aplicación funcione correctamente en 
+múltiples dispositivos y plataformas (iOS, Android)? 
+2) ¿Cómo implementarías la funci onalidad de recordatorios y notificaciones en Flutter para 
+asegurar que los usuarios no olviden tareas importantes? 
+3) ¿Qué estructura de base de datos utilizarías para almacenar las tareas de los usuarios y 
+asegurar la sincronización en tiempo real entre dispositivos? 
+4) ¿Qué widgets principales y secundarios de Flutter utilizarías para crear una interfaz 
+intuitiva y atractiva para la gestión de tareas? 
+5) ¿Cómo asegurarías que la aplicación sea fácil de usar, incluso sin realizar pruebas 
+directas con usuarios, y q ué métodos alternativos sugerirías para obtener 
+retroalimentación sobre la experiencia de usuario? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Entregar una propuesta de solución para el  caso práctico , fundamentado con  los 
+conocimientos adquiridos a lo largo del curso, aplicando lo aprendido con las tareas y 
+operaciones descritas en los contenidos curriculares. 
+ 
+ Generar esquema y/o diagramas alineados a la propuesta de solución del caso práctico. 
+ 
+ 
+ 
+6. CONSIDERACIONES PARA EL ENTREGABLE 
+
+PAGINA 5
+ 
+ 
+ 
+ 

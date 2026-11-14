@@ -1,0 +1,170 @@
+{
+  "input": "C:\\Users\\user\\Downloads\\PAWD-403_FORMATOALUMNOTRABAJOFINAL.docx",
+  "fonts_by_char_count": {
+    "Arial": 3161
+  },
+  "direct_run_formatting_runs": 170,
+  "direct_paragraph_formatting_paragraphs": 157,
+  "heading_like_paragraphs_not_heading_style": [
+    {
+      "para_index": 40,
+      "text": "DATOS DEL ESTUDIANTE",
+      "style": "Normal"
+    },
+    {
+      "para_index": 53,
+      "text": "Respuestas a preguntas gu\u00eda\u00a0",
+      "style": "List Paragraph"
+    },
+    {
+      "para_index": 92,
+      "text": "Describe la propuesta determinada para la soluci\u00f3n del caso pr\u00e1ctico",
+      "style": "List Paragraph"
+    },
+    {
+      "para_index": 168,
+      "text": "N\u00b0",
+      "style": "Normal"
+    },
+    {
+      "para_index": 169,
+      "text": "ACTIVIDADES",
+      "style": "Normal"
+    },
+    {
+      "para_index": 170,
+      "text": "CRONOGRAMA",
+      "style": "Normal"
+    },
+    {
+      "para_index": 171,
+      "text": "CRONOGRAMA",
+      "style": "Normal"
+    },
+    {
+      "para_index": 172,
+      "text": "CRONOGRAMA",
+      "style": "Normal"
+    },
+    {
+      "para_index": 173,
+      "text": "CRONOGRAMA",
+      "style": "Normal"
+    },
+    {
+      "para_index": 174,
+      "text": "CRONOGRAMA",
+      "style": "Normal"
+    },
+    {
+      "para_index": 175,
+      "text": "CRONOGRAMA",
+      "style": "Normal"
+    },
+    {
+      "para_index": 176,
+      "text": "N\u00b0",
+      "style": "Normal"
+    },
+    {
+      "para_index": 177,
+      "text": "ACTIVIDADES",
+      "style": "Normal"
+    },
+    {
+      "para_index": 232,
+      "text": "M\u00c1QUINAS Y EQUIPOS",
+      "style": "List Paragraph"
+    },
+    {
+      "para_index": 233,
+      "text": "M\u00c1QUINAS Y EQUIPOS",
+      "style": "List Paragraph"
+    },
+    {
+      "para_index": 234,
+      "text": "Descripci\u00f3n",
+      "style": "Normal"
+    },
+    {
+      "para_index": 235,
+      "text": "Cantidad",
+      "style": "Normal"
+    },
+    {
+      "para_index": 244,
+      "text": "HERRAMIENTAS E INSTRUMENTOS",
+      "style": "List Paragraph"
+    },
+    {
+      "para_index": 245,
+      "text": "HERRAMIENTAS E INSTRUMENTOS",
+      "style": "List Paragraph"
+    },
+    {
+      "para_index": 246,
+      "text": "Descripci\u00f3n",
+      "style": "Normal"
+    }
+  ],
+  "examples": {
+    "direct_run_formatting": [
+      {
+        "para_index": 1,
+        "run_text": " ",
+        "style": "Normal"
+      },
+      {
+        "para_index": 40,
+        "run_text": "DATOS DEL ESTUDIANTE",
+        "style": "Normal"
+      },
+      {
+        "para_index": 46,
+        "run_text": "Identifica la problem\u00e1tica del caso pr\u00e1ctico propuesto.",
+        "style": "List Paragraph"
+      },
+      {
+        "para_index": 49,
+        "run_text": "Identifica ",
+        "style": "List Paragraph"
+      },
+      {
+        "para_index": 49,
+        "run_text": "propuesta de soluci\u00f3n y evidencias",
+        "style": "List Paragraph"
+      }
+    ],
+    "direct_paragraph_formatting": [
+      {
+        "para_index": 39,
+        "text": "",
+        "style": "Normal"
+      },
+      {
+        "para_index": 41,
+        "text": "",
+        "style": "Normal"
+      },
+      {
+        "para_index": 46,
+        "text": "Identifica la problem\u00e1tica del caso pr\u00e1ctico propuesto.",
+        "style": "List Paragraph"
+      },
+      {
+        "para_index": 47,
+        "text": "",
+        "style": "List Paragraph"
+      },
+      {
+        "para_index": 48,
+        "text": "",
+        "style": "List Paragraph"
+      }
+    ]
+  },
+  "notes": [
+    "Direct formatting is not always wrong, but it often causes inconsistent output when templates change.",
+    "Heading-like paragraphs not using Heading styles can break TOC and accessibility."
+  ]
+}

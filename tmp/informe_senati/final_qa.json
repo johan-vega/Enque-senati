@@ -1,0 +1,17 @@
+{
+  "pages": 22,
+  "images_resolve": 18,
+  "template_sections": 3,
+  "controls_preserved": 20,
+  "original_unchanged": true,
+  "visual_review": "22 páginas inspeccionadas; cinco páginas modificadas reinspeccionadas; otras 17 idénticas por SHA-256",
+  "latest_changed_pages": [
+    2,
+    3,
+    5,
+    11,
+    13
+  ],
+  "student_fields": "Pendientes, editables",
+  "output_sha256": "b761f4ac6f7ca39bf8fbc2a5db194f59c2fd6387cbc670262e24e03158d95161"
+}

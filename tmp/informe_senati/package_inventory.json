@@ -1,0 +1,170 @@
+{
+  "[Content_Types].xml": {
+    "size": 3035,
+    "sha256": "07a9c4c0fe532ba47f6e2d92adc8361512b7fd392b30a416de7f7979a2b73a60"
+  },
+  "_rels/.rels": {
+    "size": 737,
+    "sha256": "c30fe099dbcfed4ecc4ae544ccf82f432c8d3bb665e2a301df283738b196d803"
+  },
+  "word/document.xml": {
+    "size": 289552,
+    "sha256": "e91676cf1ea1d73769e7cbce64cb9a1febd86b2e25a67e9d2ecbcee07fc6508b"
+  },
+  "word/_rels/document.xml.rels": {
+    "size": 2569,
+    "sha256": "fa48d3e94f45d47a45ec38f64ea635ba3ce7f9e1756534c4d07f68d88303f70c"
+  },
+  "word/footer2.xml": {
+    "size": 11413,
+    "sha256": "6857e66785fab538e7bb7062138f134bd335e8a447514c6a8938fa7a7c83b759"
+  },
+  "word/_rels/footer2.xml.rels": {
+    "size": 289,
+    "sha256": "f337caa3da46e6f332ad3dd7324e871d90f08d5c2e9926a3208fbe6f5ee76afd"
+  },
+  "word/_rels/header2.xml.rels": {
+    "size": 545,
+    "sha256": "1744bee4ffe2dad1eb1fa047765bf39d35272ace7ee1d1d1dc043fb6ef820ffc"
+  },
+  "word/_rels/header1.xml.rels": {
+    "size": 289,
+    "sha256": "94bca6aec3177c3b64686e1248ecfb39e9750dc067c2274af33e6b442d1f6617"
+  },
+  "word/footnotes.xml": {
+    "size": 2963,
+    "sha256": "816ac92c8141362b26420cb2a5b51fe5c71e95d8146dc5b1b90c940578c3621c"
+  },
+  "word/endnotes.xml": {
+    "size": 2957,
+    "sha256": "5dea5bb7fd545833d2a991f2c77060f06fc8fd8d4b2b52e673cceb14cd4aa1cb"
+  },
+  "word/header1.xml": {
+    "size": 4827,
+    "sha256": "fc2d352863fa96b66617b5dbaf36bde171ad66ea0f36b19009ef367a2a1fcc22"
+  },
+  "word/header2.xml": {
+    "size": 6734,
+    "sha256": "4664dd4c8013b5d98fc2f68eb5bbb803a2b055b8efee09260c61966f46abcffc"
+  },
+  "word/footer1.xml": {
+    "size": 14163,
+    "sha256": "f41ea012ad58597630cc3a0004ab29597f50eecd039d47e3b907f21f33732d3a"
+  },
+  "word/media/image1.png": {
+    "size": 23912,
+    "sha256": "6da877539d76296694ceefe3ac5e97cbc5d204ba614fb602d503aa3f3078c673"
+  },
+  "word/media/image3.png": {
+    "size": 12506,
+    "sha256": "124627d2980a4b9f37f98f941c7de3308fd58a02927342b084bb8c224d821a7d"
+  },
+  "word/media/image4.png": {
+    "size": 13523,
+    "sha256": "c2a4ef172176d0ccf4914bd8515cb87a68bdc36c474b39e4145caa9660e5a7e0"
+  },
+  "word/media/image5.jpeg": {
+    "size": 10231,
+    "sha256": "bfc3fe089efd4892dfe449886182c54f7cc38d8a4cd7d696fbe5cb9473c5a54a"
+  },
+  "word/media/image6.jpeg": {
+    "size": 9551,
+    "sha256": "4b137c89340c1f29c046cd2df442b61cfb2b4a02e4616e161f74e2ca5b423045"
+  },
+  "word/theme/theme1.xml": {
+    "size": 6994,
+    "sha256": "1c250dd1c4a30fa96aac76782ca1315e141b802a5d61cc7def15d9c089ee7527"
+  },
+  "word/media/image2.jpeg": {
+    "size": 66477,
+    "sha256": "32c2fbffffaaf4c65981d413245e3df447a3eda9bfb62250c091fc13570507e8"
+  },
+  "word/media/hdphoto1.wdp": {
+    "size": 27815,
+    "sha256": "db78e6cab292d4bf8d0f5e6e6b51dd1c921823905ae9bf9efc8c03bd202f72e7"
+  },
+  "word/settings.xml": {
+    "size": 16200,
+    "sha256": "b81878445a84ab98a8cd761fe4fd0d80cd5de0a11ca46dea3a4756d3d99eb918"
+  },
+  "customXml/itemProps1.xml": {
+    "size": 201,
+    "sha256": "0ad43b8e16a5f4c051e5a2bf49330e6d048654bb77476cac1e7bd070fbdaf1a2"
+  },
+  "customXml/item2.xml": {
+    "size": 219,
+    "sha256": "5efcaf9ad70d9c29f406ee438f8f428b021a881d2c5afff0e53b00b1f67ae51e"
+  },
+  "customXml/itemProps2.xml": {
+    "size": 335,
+    "sha256": "d02f8f0f7a9c26f241d45d7fede433dfceb1be691662f78d8318e575abb3f069"
+  },
+  "customXml/item3.xml": {
+    "size": 270,
+    "sha256": "c8092edbb672f8c93f1d5ef66539a6f169462ba8738b785b59cc5d96f4aca59a"
+  },
+  "customXml/itemProps3.xml": {
+    "size": 341,
+    "sha256": "b37ca3ef34d3725d86425d4b007053301ba157c8c64f0f9ee2cc45dd5f4f9f49"
+  },
+  "[trash]/0000.dat": {
+    "size": 389,
+    "sha256": "93c851b33f94ad3de9af0c28c2792d216258f91d2964c54b277b915eeb17629d"
+  },
+  "customXml/itemProps4.xml": {
+    "size": 547,
+    "sha256": "574303db91f91cdeb42dd01b95b7f0e61d24a262c6e5eb91e62b2104f157216e"
+  },
+  "word/numbering.xml": {
+    "size": 188927,
+    "sha256": "38b4f01c7fb34b1d0392963c6c60c9c6def139efe39658eaf77e38aeffac3d58"
+  },
+  "docProps/app.xml": {
+    "size": 994,
+    "sha256": "fa7408e7fc13408bfaa2559ac7137f874d9c716bb2afb3f609a40f9857bc4f27"
+  },
+  "docProps/custom.xml": {
+    "size": 1734,
+    "sha256": "b0f270866975c00f97dae5cc5904540fe478299f805e9781bc4d7ca7102e34b4"
+  },
+  "word/fontTable.xml": {
+    "size": 3895,
+    "sha256": "9897c1e40c7e01352b46874b4b50a8f3b477baf7939b1f31817b630de1f6fa1a"
+  },
+  "docProps/core.xml": {
+    "size": 815,
+    "sha256": "c78e82f73a9fa9a5312561329e4b485ff84e547b8cb90b1a7d90f77d6ff3df28"
+  },
+  "customXml/_rels/item1.xml.rels": {
+    "size": 296,
+    "sha256": "80482f86e196171d66001e0e74d1900408a3aaf2463e54005d251b5f2db9a0b0"
+  },
+  "customXml/_rels/item2.xml.rels": {
+    "size": 296,
+    "sha256": "2a6aee4c8a9714223a3568077411a0c82d11b484b1c9ab93a19d50b99c57baa5"
+  },
+  "customXml/_rels/item3.xml.rels": {
+    "size": 296,
+    "sha256": "3aa4054f7f463c6d441102c960783aa7f937d6945a0a885b624a66aafaeedb6c"
+  },
+  "customXml/_rels/item4.xml.rels": {
+    "size": 296,
+    "sha256": "3c0d4d955517fe8112c945b1e56f63d5bef3c0005ccb627e40acda432e1cdc1d"
+  },
+  "word/webSettings.xml": {
+    "size": 79107,
+    "sha256": "5c4a73adae7b927a0049582495d853f8cd863843ff1068052bc5858cf8e6b820"
+  },
+  "word/styles.xml": {
+    "size": 36884,
+    "sha256": "5101fc86a671d524ad784c9ddaba6a6e350018ea20b2ab5c882c716994974971"
+  },
+  "customXml/item1.xml": {
+    "size": 18324,
+    "sha256": "bdc18e33faaaa50b22d42816c1f402cc68e89dc593618b26e4b4daedb316266d"
+  },
+  "customXml/item4.xml": {
+    "size": 1495,
+    "sha256": "5eddc4787025dc422486007b21efe60c0ff8b033fafccaa5f439d72099581170"
+  }
+}

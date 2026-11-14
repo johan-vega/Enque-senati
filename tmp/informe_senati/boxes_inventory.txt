@@ -1,0 +1,1393 @@
+BOX 0 <w:txbxContent xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex" xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex" xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex" xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex" xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex" xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex" xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex" xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex" xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:aink="http://schemas.microsoft.com/office/drawing/2016/ink" xmlns:am3d="http://schemas.microsoft.com/office/drawing/2017/model3d" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:oel="http://schemas.microsoft.com/office/2019/extlst" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:w16cex="http://schemas.microsoft.com/office/word/2018/wordml/cex" xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid" xmlns:w16="http://schemas.microsoft.com/office/word/2018/wordml" xmlns:w16du="http://schemas.microsoft.com/office/word/2023/wordml/word16du" xmlns:w16sdtdh="http://schemas.microsoft.com/office/word/2020/wordml/sdtdatahash" xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape">
+  <w:p w14:paraId="147DC2EF" w14:textId="11E1C825" w:rsidR="00003951" w:rsidRPr="00003951" w:rsidRDefault="00003951" w:rsidP="00B301F7">
+    <w:pPr>
+      <w:pStyle w:val="Prrafodelista"/>
+      <w:numPr>
+        <w:ilvl w:val="0"/>
+        <w:numId w:val="65"/>
+      </w:numPr>
+      <w:ind w:left="426"/>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:b/>
+        <w:bCs/>
+        <w:sz w:val="32"/>
+        <w:szCs w:val="32"/>
+        <w:lang w:val="es-PE"/>
+      </w:rPr>
+    </w:pPr>
+    <w:r w:rsidRPr="00003951">
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:b/>
+        <w:bCs/>
+        <w:sz w:val="32"/>
+        <w:szCs w:val="32"/>
+        <w:lang w:val="es-PE"/>
+      </w:rPr>
+      <w:t>INFORMACI&#211;N</w:t>
+    </w:r>
+  </w:p>
+  <w:p w14:paraId="6B7AD757" w14:textId="77777777" w:rsidR="00003951" w:rsidRDefault="00003951"/>
+</w:txbxContent>
+
+
+BOX 1 <w:txbxContent xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex" xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex" xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex" xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex" xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex" xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex" xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex" xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex" xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:aink="http://schemas.microsoft.com/office/drawing/2016/ink" xmlns:am3d="http://schemas.microsoft.com/office/drawing/2017/model3d" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:oel="http://schemas.microsoft.com/office/2019/extlst" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:w16cex="http://schemas.microsoft.com/office/word/2018/wordml/cex" xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid" xmlns:w16="http://schemas.microsoft.com/office/word/2018/wordml" xmlns:w16du="http://schemas.microsoft.com/office/word/2023/wordml/word16du" xmlns:w16sdtdh="http://schemas.microsoft.com/office/word/2020/wordml/sdtdatahash" xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape">
+  <w:p w14:paraId="147DC2EF" w14:textId="11E1C825" w:rsidR="00003951" w:rsidRPr="00003951" w:rsidRDefault="00003951" w:rsidP="00B301F7">
+    <w:pPr>
+      <w:pStyle w:val="Prrafodelista"/>
+      <w:numPr>
+        <w:ilvl w:val="0"/>
+        <w:numId w:val="65"/>
+      </w:numPr>
+      <w:ind w:left="426"/>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:b/>
+        <w:bCs/>
+        <w:sz w:val="32"/>
+        <w:szCs w:val="32"/>
+        <w:lang w:val="es-PE"/>
+      </w:rPr>
+    </w:pPr>
+    <w:r w:rsidRPr="00003951">
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:b/>
+        <w:bCs/>
+        <w:sz w:val="32"/>
+        <w:szCs w:val="32"/>
+        <w:lang w:val="es-PE"/>
+      </w:rPr>
+      <w:t>INFORMACI&#211;N</w:t>
+    </w:r>
+  </w:p>
+  <w:p w14:paraId="6B7AD757" w14:textId="77777777" w:rsidR="00003951" w:rsidRDefault="00003951"/>
+</w:txbxContent>
+
+
+BOX 2 <w:txbxContent xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex" xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex" xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex" xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex" xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex" xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex" xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex" xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex" xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:aink="http://schemas.microsoft.com/office/drawing/2016/ink" xmlns:am3d="http://schemas.microsoft.com/office/drawing/2017/model3d" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:oel="http://schemas.microsoft.com/office/2019/extlst" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:w16cex="http://schemas.microsoft.com/office/word/2018/wordml/cex" xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid" xmlns:w16="http://schemas.microsoft.com/office/word/2018/wordml" xmlns:w16du="http://schemas.microsoft.com/office/word/2023/wordml/word16du" xmlns:w16sdtdh="http://schemas.microsoft.com/office/word/2020/wordml/sdtdatahash" xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape">
+  <w:p w14:paraId="531C6CBE" w14:textId="77777777" w:rsidR="004A5ACD" w:rsidRDefault="004A5ACD" w:rsidP="004A5ACD">
+    <w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:color w:val="000000" w:themeColor="text1"/>
+        <w:lang w:val="en-US"/>
+      </w:rPr>
+    </w:pPr>
+  </w:p>
+  <w:p w14:paraId="0484923D" w14:textId="77777777" w:rsidR="004A5ACD" w:rsidRDefault="004A5ACD" w:rsidP="004A5ACD">
+    <w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:color w:val="000000" w:themeColor="text1"/>
+        <w:lang w:val="en-US"/>
+      </w:rPr>
+    </w:pPr>
+  </w:p>
+  <w:p w14:paraId="6CEAE023" w14:textId="77777777" w:rsidR="004A5ACD" w:rsidRDefault="004A5ACD" w:rsidP="004A5ACD">
+    <w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:color w:val="000000" w:themeColor="text1"/>
+        <w:lang w:val="en-US"/>
+      </w:rPr>
+    </w:pPr>
+  </w:p>
+  <w:p w14:paraId="09A57E7A" w14:textId="77777777" w:rsidR="004A5ACD" w:rsidRDefault="004A5ACD" w:rsidP="004A5ACD">
+    <w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:color w:val="000000" w:themeColor="text1"/>
+        <w:lang w:val="en-US"/>
+      </w:rPr>
+    </w:pPr>
+  </w:p>
+  <w:p w14:paraId="2CF1C731" w14:textId="77777777" w:rsidR="004A5ACD" w:rsidRDefault="004A5ACD" w:rsidP="004A5ACD">
+    <w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:color w:val="000000" w:themeColor="text1"/>
+        <w:lang w:val="en-US"/>
+      </w:rPr>
+    </w:pPr>
+  </w:p>
+  <w:p w14:paraId="52FBA99A" w14:textId="77777777" w:rsidR="004A5ACD" w:rsidRDefault="004A5ACD" w:rsidP="004A5ACD">
+    <w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:color w:val="000000" w:themeColor="text1"/>
+        <w:lang w:val="en-US"/>
+      </w:rPr>
+    </w:pPr>
+  </w:p>
+  <w:p w14:paraId="1BA6672B" w14:textId="77777777" w:rsidR="004A5ACD" w:rsidRDefault="004A5ACD" w:rsidP="004A5ACD">
+    <w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:color w:val="000000" w:themeColor="text1"/>
+        <w:lang w:val="en-US"/>
+      </w:rPr>
+    </w:pPr>
+  </w:p>
+  <w:p w14:paraId="59D09783" w14:textId="77777777" w:rsidR="004A5ACD" w:rsidRDefault="004A5ACD" w:rsidP="004A5ACD">
+    <w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:color w:val="000000" w:themeColor="text1"/>
+        <w:lang w:val="en-US"/>
+      </w:rPr>
+    </w:pPr>
+  </w:p>
+  <w:p w14:paraId="325173F4" w14:textId="77777777" w:rsidR="004A5ACD" w:rsidRDefault="004A5ACD" w:rsidP="004A5ACD">
+    <w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:color w:val="000000" w:themeColor="text1"/>
+        <w:lang w:val="en-US"/>
+      </w:rPr>
+    </w:pPr>
+  </w:p>
+  <w:p w14:paraId="55674BB6" w14:textId="77777777" w:rsidR="004A5ACD" w:rsidRDefault="004A5ACD" w:rsidP="004A5ACD">
+    <w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:color w:val="000000" w:themeColor="text1"/>
+        <w:lang w:val="en-US"/>
+      </w:rPr>
+    </w:pPr>
+  </w:p>
+  <w:p w14:paraId="76D077C1" w14:textId="77777777" w:rsidR="004A5ACD" w:rsidRDefault="004A5ACD" w:rsidP="004A5ACD">
+    <w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:color w:val="000000" w:themeColor="text1"/>
+        <w:lang w:val="en-US"/>
+      </w:rPr>
+    </w:pPr>
+  </w:p>
+  <w:p w14:paraId="368F23DF" w14:textId="77777777" w:rsidR="004A5ACD" w:rsidRDefault="004A5ACD" w:rsidP="004A5ACD">
+    <w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:color w:val="000000" w:themeColor="text1"/>
+        <w:lang w:val="en-US"/>
+      </w:rPr>
+    </w:pPr>
+  </w:p>
+  <w:p w14:paraId="2BCE6F4C" w14:textId="77777777" w:rsidR="004A5ACD" w:rsidRDefault="004A5ACD" w:rsidP="004A5ACD">
+    <w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:color w:val="000000" w:themeColor="text1"/>
+        <w:lang w:val="en-US"/>
+      </w:rPr>
+    </w:pPr>
+  </w:p>
+  <w:p w14:paraId="279B3920" w14:textId="77777777" w:rsidR="004A5ACD" w:rsidRDefault="004A5ACD" w:rsidP="004A5ACD">
+    <w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:color w:val="000000" w:themeColor="text1"/>
+        <w:lang w:val="en-US"/>
+      </w:rPr>
+    </w:pPr>
+  </w:p>
+  <w:p w14:paraId="2C5FE620" w14:textId="77777777" w:rsidR="004A5ACD" w:rsidRPr="003F6FEA" w:rsidRDefault="004A5ACD" w:rsidP="004A5ACD">
+    <w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:color w:val="000000" w:themeColor="text1"/>
+        <w:lang w:val="en-US"/>
+      </w:rPr>
+    </w:pPr>
+  </w:p>
+  <w:p w14:paraId="760C115E" w14:textId="77777777" w:rsidR="004A5ACD" w:rsidRPr="003F6FEA" w:rsidRDefault="004A5ACD" w:rsidP="004A5ACD">
+    <w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:color w:val="000000" w:themeColor="text1"/>
+        <w:lang w:val="en-US"/>
+      </w:rPr>
+    </w:pPr>
+  </w:p>
+</w:txbxContent>
+
+
+BOX 3 <w:txbxContent xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex" xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex" xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex" xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex" xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex" xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex" xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex" xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex" xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:aink="http://schemas.microsoft.com/office/drawing/2016/ink" xmlns:am3d="http://schemas.microsoft.com/office/drawing/2017/model3d" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:oel="http://schemas.microsoft.com/office/2019/extlst" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:w16cex="http://schemas.microsoft.com/office/word/2018/wordml/cex" xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid" xmlns:w16="http://schemas.microsoft.com/office/word/2018/wordml" xmlns:w16du="http://schemas.microsoft.com/office/word/2023/wordml/word16du" xmlns:w16sdtdh="http://schemas.microsoft.com/office/word/2020/wordml/sdtdatahash" xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape">
+  <w:p w14:paraId="531C6CBE" w14:textId="77777777" w:rsidR="004A5ACD" w:rsidRDefault="004A5ACD" w:rsidP="004A5ACD">
+    <w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:color w:val="000000" w:themeColor="text1"/>
+        <w:lang w:val="en-US"/>
+      </w:rPr>
+    </w:pPr>
+  </w:p>
+  <w:p w14:paraId="0484923D" w14:textId="77777777" w:rsidR="004A5ACD" w:rsidRDefault="004A5ACD" w:rsidP="004A5ACD">
+    <w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:color w:val="000000" w:themeColor="text1"/>
+        <w:lang w:val="en-US"/>
+      </w:rPr>
+    </w:pPr>
+  </w:p>
+  <w:p w14:paraId="6CEAE023" w14:textId="77777777" w:rsidR="004A5ACD" w:rsidRDefault="004A5ACD" w:rsidP="004A5ACD">
+    <w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:color w:val="000000" w:themeColor="text1"/>
+        <w:lang w:val="en-US"/>
+      </w:rPr>
+    </w:pPr>
+  </w:p>
+  <w:p w14:paraId="09A57E7A" w14:textId="77777777" w:rsidR="004A5ACD" w:rsidRDefault="004A5ACD" w:rsidP="004A5ACD">
+    <w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:color w:val="000000" w:themeColor="text1"/>
+        <w:lang w:val="en-US"/>
+      </w:rPr>
+    </w:pPr>
+  </w:p>
+  <w:p w14:paraId="2CF1C731" w14:textId="77777777" w:rsidR="004A5ACD" w:rsidRDefault="004A5ACD" w:rsidP="004A5ACD">
+    <w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:color w:val="000000" w:themeColor="text1"/>
+        <w:lang w:val="en-US"/>
+      </w:rPr>
+    </w:pPr>
+  </w:p>
+  <w:p w14:paraId="52FBA99A" w14:textId="77777777" w:rsidR="004A5ACD" w:rsidRDefault="004A5ACD" w:rsidP="004A5ACD">
+    <w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:color w:val="000000" w:themeColor="text1"/>
+        <w:lang w:val="en-US"/>
+      </w:rPr>
+    </w:pPr>
+  </w:p>
+  <w:p w14:paraId="1BA6672B" w14:textId="77777777" w:rsidR="004A5ACD" w:rsidRDefault="004A5ACD" w:rsidP="004A5ACD">
+    <w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:color w:val="000000" w:themeColor="text1"/>
+        <w:lang w:val="en-US"/>
+      </w:rPr>
+    </w:pPr>
+  </w:p>
+  <w:p w14:paraId="59D09783" w14:textId="77777777" w:rsidR="004A5ACD" w:rsidRDefault="004A5ACD" w:rsidP="004A5ACD">
+    <w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:color w:val="000000" w:themeColor="text1"/>
+        <w:lang w:val="en-US"/>
+      </w:rPr>
+    </w:pPr>
+  </w:p>
+  <w:p w14:paraId="325173F4" w14:textId="77777777" w:rsidR="004A5ACD" w:rsidRDefault="004A5ACD" w:rsidP="004A5ACD">
+    <w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:color w:val="000000" w:themeColor="text1"/>
+        <w:lang w:val="en-US"/>
+      </w:rPr>
+    </w:pPr>
+  </w:p>
+  <w:p w14:paraId="55674BB6" w14:textId="77777777" w:rsidR="004A5ACD" w:rsidRDefault="004A5ACD" w:rsidP="004A5ACD">
+    <w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:color w:val="000000" w:themeColor="text1"/>
+        <w:lang w:val="en-US"/>
+      </w:rPr>
+    </w:pPr>
+  </w:p>
+  <w:p w14:paraId="76D077C1" w14:textId="77777777" w:rsidR="004A5ACD" w:rsidRDefault="004A5ACD" w:rsidP="004A5ACD">
+    <w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:color w:val="000000" w:themeColor="text1"/>
+        <w:lang w:val="en-US"/>
+      </w:rPr>
+    </w:pPr>
+  </w:p>
+  <w:p w14:paraId="368F23DF" w14:textId="77777777" w:rsidR="004A5ACD" w:rsidRDefault="004A5ACD" w:rsidP="004A5ACD">
+    <w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:color w:val="000000" w:themeColor="text1"/>
+        <w:lang w:val="en-US"/>
+      </w:rPr>
+    </w:pPr>
+  </w:p>
+  <w:p w14:paraId="2BCE6F4C" w14:textId="77777777" w:rsidR="004A5ACD" w:rsidRDefault="004A5ACD" w:rsidP="004A5ACD">
+    <w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:color w:val="000000" w:themeColor="text1"/>
+        <w:lang w:val="en-US"/>
+      </w:rPr>
+    </w:pPr>
+  </w:p>
+  <w:p w14:paraId="279B3920" w14:textId="77777777" w:rsidR="004A5ACD" w:rsidRDefault="004A5ACD" w:rsidP="004A5ACD">
+    <w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:color w:val="000000" w:themeColor="text1"/>
+        <w:lang w:val="en-US"/>
+      </w:rPr>
+    </w:pPr>
+  </w:p>
+  <w:p w14:paraId="2C5FE620" w14:textId="77777777" w:rsidR="004A5ACD" w:rsidRPr="003F6FEA" w:rsidRDefault="004A5ACD" w:rsidP="004A5ACD">
+    <w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:color w:val="000000" w:themeColor="text1"/>
+        <w:lang w:val="en-US"/>
+      </w:rPr>
+    </w:pPr>
+  </w:p>
+  <w:p w14:paraId="760C115E" w14:textId="77777777" w:rsidR="004A5ACD" w:rsidRPr="003F6FEA" w:rsidRDefault="004A5ACD" w:rsidP="004A5ACD">
+    <w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:color w:val="000000" w:themeColor="text1"/>
+        <w:lang w:val="en-US"/>
+      </w:rPr>
+    </w:pPr>
+  </w:p>
+</w:txbxContent>
+
+
+BOX 4 <w:txbxContent xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex" xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex" xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex" xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex" xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex" xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex" xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex" xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex" xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:aink="http://schemas.microsoft.com/office/drawing/2016/ink" xmlns:am3d="http://schemas.microsoft.com/office/drawing/2017/model3d" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:oel="http://schemas.microsoft.com/office/2019/extlst" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:w16cex="http://schemas.microsoft.com/office/word/2018/wordml/cex" xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid" xmlns:w16="http://schemas.microsoft.com/office/word/2018/wordml" xmlns:w16du="http://schemas.microsoft.com/office/word/2023/wordml/word16du" xmlns:w16sdtdh="http://schemas.microsoft.com/office/word/2020/wordml/sdtdatahash" xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape">
+  <w:p w14:paraId="480348BF" w14:textId="77777777" w:rsidR="004A5ACD" w:rsidRPr="003F6FEA" w:rsidRDefault="004A5ACD" w:rsidP="004A5ACD">
+    <w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:color w:val="000000" w:themeColor="text1"/>
+      </w:rPr>
+    </w:pPr>
+  </w:p>
+  <w:p w14:paraId="410A9C22" w14:textId="77777777" w:rsidR="004A5ACD" w:rsidRPr="003F6FEA" w:rsidRDefault="004A5ACD" w:rsidP="004A5ACD">
+    <w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:color w:val="000000" w:themeColor="text1"/>
+      </w:rPr>
+    </w:pPr>
+  </w:p>
+  <w:p w14:paraId="4F148889" w14:textId="77777777" w:rsidR="004A5ACD" w:rsidRDefault="004A5ACD" w:rsidP="004A5ACD">
+    <w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:color w:val="000000" w:themeColor="text1"/>
+      </w:rPr>
+    </w:pPr>
+  </w:p>
+  <w:p w14:paraId="61C6D4D9" w14:textId="77777777" w:rsidR="004A5ACD" w:rsidRDefault="004A5ACD" w:rsidP="004A5ACD">
+    <w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:color w:val="000000" w:themeColor="text1"/>
+      </w:rPr>
+    </w:pPr>
+  </w:p>
+  <w:p w14:paraId="23E063F2" w14:textId="77777777" w:rsidR="004A5ACD" w:rsidRDefault="004A5ACD" w:rsidP="004A5ACD">
+    <w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:color w:val="000000" w:themeColor="text1"/>
+      </w:rPr>
+    </w:pPr>
+  </w:p>
+  <w:p w14:paraId="72670FF4" w14:textId="77777777" w:rsidR="004A5ACD" w:rsidRDefault="004A5ACD" w:rsidP="004A5ACD">
+    <w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:color w:val="000000" w:themeColor="text1"/>
+      </w:rPr>
+    </w:pPr>
+  </w:p>
+  <w:p w14:paraId="76DC0A0F" w14:textId="77777777" w:rsidR="004A5ACD" w:rsidRDefault="004A5ACD" w:rsidP="004A5ACD">
+    <w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:color w:val="000000" w:themeColor="text1"/>
+      </w:rPr>
+    </w:pPr>
+  </w:p>
+  <w:p w14:paraId="0DE75C82" w14:textId="77777777" w:rsidR="004A5ACD" w:rsidRDefault="004A5ACD" w:rsidP="004A5ACD">
+    <w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:color w:val="000000" w:themeColor="text1"/>
+      </w:rPr>
+    </w:pPr>
+  </w:p>
+  <w:p w14:paraId="06ECF630" w14:textId="77777777" w:rsidR="004A5ACD" w:rsidRDefault="004A5ACD" w:rsidP="004A5ACD">
+    <w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:color w:val="000000" w:themeColor="text1"/>
+      </w:rPr>
+    </w:pPr>
+  </w:p>
+  <w:p w14:paraId="53DDFACC" w14:textId="77777777" w:rsidR="004A5ACD" w:rsidRDefault="004A5ACD" w:rsidP="004A5ACD">
+    <w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:color w:val="000000" w:themeColor="text1"/>
+      </w:rPr>
+    </w:pPr>
+  </w:p>
+  <w:p w14:paraId="7FD49DEC" w14:textId="77777777" w:rsidR="004A5ACD" w:rsidRDefault="004A5ACD" w:rsidP="004A5ACD">
+    <w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:color w:val="000000" w:themeColor="text1"/>
+      </w:rPr>
+    </w:pPr>
+  </w:p>
+  <w:p w14:paraId="1ABB5781" w14:textId="77777777" w:rsidR="004A5ACD" w:rsidRDefault="004A5ACD" w:rsidP="004A5ACD">
+    <w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:color w:val="000000" w:themeColor="text1"/>
+      </w:rPr>
+    </w:pPr>
+  </w:p>
+  <w:p w14:paraId="2018B194" w14:textId="77777777" w:rsidR="004A5ACD" w:rsidRPr="003F6FEA" w:rsidRDefault="004A5ACD" w:rsidP="004A5ACD">
+    <w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:color w:val="000000" w:themeColor="text1"/>
+      </w:rPr>
+    </w:pPr>
+  </w:p>
+  <w:p w14:paraId="6E6139B4" w14:textId="77777777" w:rsidR="004A5ACD" w:rsidRPr="003F6FEA" w:rsidRDefault="004A5ACD" w:rsidP="004A5ACD">
+    <w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:color w:val="000000" w:themeColor="text1"/>
+      </w:rPr>
+    </w:pPr>
+  </w:p>
+  <w:p w14:paraId="22EF9E69" w14:textId="77777777" w:rsidR="004A5ACD" w:rsidRPr="003F6FEA" w:rsidRDefault="004A5ACD" w:rsidP="004A5ACD">
+    <w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:color w:val="000000" w:themeColor="text1"/>
+      </w:rPr>
+    </w:pPr>
+  </w:p>
+</w:txbxContent>
+
+
+BOX 5 <w:txbxContent xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex" xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex" xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex" xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex" xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex" xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex" xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex" xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex" xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:aink="http://schemas.microsoft.com/office/drawing/2016/ink" xmlns:am3d="http://schemas.microsoft.com/office/drawing/2017/model3d" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:oel="http://schemas.microsoft.com/office/2019/extlst" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:w16cex="http://schemas.microsoft.com/office/word/2018/wordml/cex" xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid" xmlns:w16="http://schemas.microsoft.com/office/word/2018/wordml" xmlns:w16du="http://schemas.microsoft.com/office/word/2023/wordml/word16du" xmlns:w16sdtdh="http://schemas.microsoft.com/office/word/2020/wordml/sdtdatahash" xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape">
+  <w:p w14:paraId="480348BF" w14:textId="77777777" w:rsidR="004A5ACD" w:rsidRPr="003F6FEA" w:rsidRDefault="004A5ACD" w:rsidP="004A5ACD">
+    <w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:color w:val="000000" w:themeColor="text1"/>
+      </w:rPr>
+    </w:pPr>
+  </w:p>
+  <w:p w14:paraId="410A9C22" w14:textId="77777777" w:rsidR="004A5ACD" w:rsidRPr="003F6FEA" w:rsidRDefault="004A5ACD" w:rsidP="004A5ACD">
+    <w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:color w:val="000000" w:themeColor="text1"/>
+      </w:rPr>
+    </w:pPr>
+  </w:p>
+  <w:p w14:paraId="4F148889" w14:textId="77777777" w:rsidR="004A5ACD" w:rsidRDefault="004A5ACD" w:rsidP="004A5ACD">
+    <w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:color w:val="000000" w:themeColor="text1"/>
+      </w:rPr>
+    </w:pPr>
+  </w:p>
+  <w:p w14:paraId="61C6D4D9" w14:textId="77777777" w:rsidR="004A5ACD" w:rsidRDefault="004A5ACD" w:rsidP="004A5ACD">
+    <w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:color w:val="000000" w:themeColor="text1"/>
+      </w:rPr>
+    </w:pPr>
+  </w:p>
+  <w:p w14:paraId="23E063F2" w14:textId="77777777" w:rsidR="004A5ACD" w:rsidRDefault="004A5ACD" w:rsidP="004A5ACD">
+    <w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:color w:val="000000" w:themeColor="text1"/>
+      </w:rPr>
+    </w:pPr>
+  </w:p>
+  <w:p w14:paraId="72670FF4" w14:textId="77777777" w:rsidR="004A5ACD" w:rsidRDefault="004A5ACD" w:rsidP="004A5ACD">
+    <w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:color w:val="000000" w:themeColor="text1"/>
+      </w:rPr>
+    </w:pPr>
+  </w:p>
+  <w:p w14:paraId="76DC0A0F" w14:textId="77777777" w:rsidR="004A5ACD" w:rsidRDefault="004A5ACD" w:rsidP="004A5ACD">
+    <w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:color w:val="000000" w:themeColor="text1"/>
+      </w:rPr>
+    </w:pPr>
+  </w:p>
+  <w:p w14:paraId="0DE75C82" w14:textId="77777777" w:rsidR="004A5ACD" w:rsidRDefault="004A5ACD" w:rsidP="004A5ACD">
+    <w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:color w:val="000000" w:themeColor="text1"/>
+      </w:rPr>
+    </w:pPr>
+  </w:p>
+  <w:p w14:paraId="06ECF630" w14:textId="77777777" w:rsidR="004A5ACD" w:rsidRDefault="004A5ACD" w:rsidP="004A5ACD">
+    <w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:color w:val="000000" w:themeColor="text1"/>
+      </w:rPr>
+    </w:pPr>
+  </w:p>
+  <w:p w14:paraId="53DDFACC" w14:textId="77777777" w:rsidR="004A5ACD" w:rsidRDefault="004A5ACD" w:rsidP="004A5ACD">
+    <w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:color w:val="000000" w:themeColor="text1"/>
+      </w:rPr>
+    </w:pPr>
+  </w:p>
+  <w:p w14:paraId="7FD49DEC" w14:textId="77777777" w:rsidR="004A5ACD" w:rsidRDefault="004A5ACD" w:rsidP="004A5ACD">
+    <w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:color w:val="000000" w:themeColor="text1"/>
+      </w:rPr>
+    </w:pPr>
+  </w:p>
+  <w:p w14:paraId="1ABB5781" w14:textId="77777777" w:rsidR="004A5ACD" w:rsidRDefault="004A5ACD" w:rsidP="004A5ACD">
+    <w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:color w:val="000000" w:themeColor="text1"/>
+      </w:rPr>
+    </w:pPr>
+  </w:p>
+  <w:p w14:paraId="2018B194" w14:textId="77777777" w:rsidR="004A5ACD" w:rsidRPr="003F6FEA" w:rsidRDefault="004A5ACD" w:rsidP="004A5ACD">
+    <w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:color w:val="000000" w:themeColor="text1"/>
+      </w:rPr>
+    </w:pPr>
+  </w:p>
+  <w:p w14:paraId="6E6139B4" w14:textId="77777777" w:rsidR="004A5ACD" w:rsidRPr="003F6FEA" w:rsidRDefault="004A5ACD" w:rsidP="004A5ACD">
+    <w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:color w:val="000000" w:themeColor="text1"/>
+      </w:rPr>
+    </w:pPr>
+  </w:p>
+  <w:p w14:paraId="22EF9E69" w14:textId="77777777" w:rsidR="004A5ACD" w:rsidRPr="003F6FEA" w:rsidRDefault="004A5ACD" w:rsidP="004A5ACD">
+    <w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:color w:val="000000" w:themeColor="text1"/>
+      </w:rPr>
+    </w:pPr>
+  </w:p>
+</w:txbxContent>
+
+
+BOX 6 <w:txbxContent xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex" xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex" xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex" xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex" xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex" xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex" xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex" xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex" xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:aink="http://schemas.microsoft.com/office/drawing/2016/ink" xmlns:am3d="http://schemas.microsoft.com/office/drawing/2017/model3d" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:oel="http://schemas.microsoft.com/office/2019/extlst" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:w16cex="http://schemas.microsoft.com/office/word/2018/wordml/cex" xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid" xmlns:w16="http://schemas.microsoft.com/office/word/2018/wordml" xmlns:w16du="http://schemas.microsoft.com/office/word/2023/wordml/word16du" xmlns:w16sdtdh="http://schemas.microsoft.com/office/word/2020/wordml/sdtdatahash" xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape">
+  <w:p w14:paraId="4712ED07" w14:textId="7FBAB2DD" w:rsidR="00003951" w:rsidRPr="00B301F7" w:rsidRDefault="00B301F7" w:rsidP="00B301F7">
+    <w:pPr>
+      <w:ind w:left="142"/>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:b/>
+        <w:bCs/>
+        <w:sz w:val="32"/>
+        <w:szCs w:val="32"/>
+        <w:lang w:val="es-PE"/>
+      </w:rPr>
+    </w:pPr>
+    <w:r>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:b/>
+        <w:bCs/>
+        <w:sz w:val="32"/>
+        <w:szCs w:val="32"/>
+        <w:lang w:val="es-PE"/>
+      </w:rPr>
+      <w:t xml:space="preserve">2. </w:t>
+    </w:r>
+    <w:r w:rsidR="00003951" w:rsidRPr="00B301F7">
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:b/>
+        <w:bCs/>
+        <w:sz w:val="32"/>
+        <w:szCs w:val="32"/>
+        <w:lang w:val="es-PE"/>
+      </w:rPr>
+      <w:t>PLANIFICACI&#211;N</w:t>
+    </w:r>
+    <w:r>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:b/>
+        <w:bCs/>
+        <w:sz w:val="32"/>
+        <w:szCs w:val="32"/>
+        <w:lang w:val="es-PE"/>
+      </w:rPr>
+      <w:t xml:space="preserve"> DEL TRABAJO</w:t>
+    </w:r>
+    <w:r w:rsidR="00003951" w:rsidRPr="00B301F7">
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:b/>
+        <w:bCs/>
+        <w:sz w:val="32"/>
+        <w:szCs w:val="32"/>
+        <w:lang w:val="es-PE"/>
+      </w:rPr>
+      <w:t xml:space="preserve"> </w:t>
+    </w:r>
+  </w:p>
+  <w:p w14:paraId="3C1C02D4" w14:textId="77777777" w:rsidR="00003951" w:rsidRDefault="00003951" w:rsidP="00003951"/>
+</w:txbxContent>
+
+
+BOX 7 <w:txbxContent xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex" xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex" xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex" xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex" xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex" xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex" xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex" xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex" xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:aink="http://schemas.microsoft.com/office/drawing/2016/ink" xmlns:am3d="http://schemas.microsoft.com/office/drawing/2017/model3d" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:oel="http://schemas.microsoft.com/office/2019/extlst" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:w16cex="http://schemas.microsoft.com/office/word/2018/wordml/cex" xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid" xmlns:w16="http://schemas.microsoft.com/office/word/2018/wordml" xmlns:w16du="http://schemas.microsoft.com/office/word/2023/wordml/word16du" xmlns:w16sdtdh="http://schemas.microsoft.com/office/word/2020/wordml/sdtdatahash" xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape">
+  <w:p w14:paraId="4712ED07" w14:textId="7FBAB2DD" w:rsidR="00003951" w:rsidRPr="00B301F7" w:rsidRDefault="00B301F7" w:rsidP="00B301F7">
+    <w:pPr>
+      <w:ind w:left="142"/>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:b/>
+        <w:bCs/>
+        <w:sz w:val="32"/>
+        <w:szCs w:val="32"/>
+        <w:lang w:val="es-PE"/>
+      </w:rPr>
+    </w:pPr>
+    <w:r>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:b/>
+        <w:bCs/>
+        <w:sz w:val="32"/>
+        <w:szCs w:val="32"/>
+        <w:lang w:val="es-PE"/>
+      </w:rPr>
+      <w:t xml:space="preserve">2. </w:t>
+    </w:r>
+    <w:r w:rsidR="00003951" w:rsidRPr="00B301F7">
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:b/>
+        <w:bCs/>
+        <w:sz w:val="32"/>
+        <w:szCs w:val="32"/>
+        <w:lang w:val="es-PE"/>
+      </w:rPr>
+      <w:t>PLANIFICA</w:t>
+    </w:r>
+    <w:r w:rsidR="00003951" w:rsidRPr="00B301F7">
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:b/>
+        <w:bCs/>
+        <w:sz w:val="32"/>
+        <w:szCs w:val="32"/>
+        <w:lang w:val="es-PE"/>
+      </w:rPr>
+      <w:t>CI&#211;N</w:t>
+    </w:r>
+    <w:r>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:b/>
+        <w:bCs/>
+        <w:sz w:val="32"/>
+        <w:szCs w:val="32"/>
+        <w:lang w:val="es-PE"/>
+      </w:rPr>
+      <w:t xml:space="preserve"> DEL TRABAJO</w:t>
+    </w:r>
+    <w:r w:rsidR="00003951" w:rsidRPr="00B301F7">
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:b/>
+        <w:bCs/>
+        <w:sz w:val="32"/>
+        <w:szCs w:val="32"/>
+        <w:lang w:val="es-PE"/>
+      </w:rPr>
+      <w:t xml:space="preserve"> </w:t>
+    </w:r>
+  </w:p>
+  <w:p w14:paraId="3C1C02D4" w14:textId="77777777" w:rsidR="00003951" w:rsidRDefault="00003951" w:rsidP="00003951"/>
+</w:txbxContent>
+
+
+BOX 8 <w:txbxContent xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex" xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex" xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex" xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex" xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex" xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex" xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex" xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex" xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:aink="http://schemas.microsoft.com/office/drawing/2016/ink" xmlns:am3d="http://schemas.microsoft.com/office/drawing/2017/model3d" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:oel="http://schemas.microsoft.com/office/2019/extlst" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:w16cex="http://schemas.microsoft.com/office/word/2018/wordml/cex" xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid" xmlns:w16="http://schemas.microsoft.com/office/word/2018/wordml" xmlns:w16du="http://schemas.microsoft.com/office/word/2023/wordml/word16du" xmlns:w16sdtdh="http://schemas.microsoft.com/office/word/2020/wordml/sdtdatahash" xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape">
+  <w:p w14:paraId="7FF61E70" w14:textId="03951DA8" w:rsidR="00B301F7" w:rsidRPr="00B301F7" w:rsidRDefault="00B301F7" w:rsidP="00B301F7">
+    <w:pPr>
+      <w:ind w:left="567" w:hanging="283"/>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:b/>
+        <w:bCs/>
+        <w:sz w:val="32"/>
+        <w:szCs w:val="32"/>
+        <w:lang w:val="es-PE"/>
+      </w:rPr>
+    </w:pPr>
+    <w:r>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:b/>
+        <w:bCs/>
+        <w:sz w:val="32"/>
+        <w:szCs w:val="32"/>
+        <w:lang w:val="es-PE"/>
+      </w:rPr>
+      <w:t>3. DECIDIR PROPUESTA</w:t>
+    </w:r>
+    <w:r w:rsidRPr="00B301F7">
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:b/>
+        <w:bCs/>
+        <w:sz w:val="32"/>
+        <w:szCs w:val="32"/>
+        <w:lang w:val="es-PE"/>
+      </w:rPr>
+      <w:t xml:space="preserve"> </w:t>
+    </w:r>
+  </w:p>
+  <w:p w14:paraId="1FFAAF1E" w14:textId="77777777" w:rsidR="00B301F7" w:rsidRDefault="00B301F7" w:rsidP="00B301F7"/>
+</w:txbxContent>
+
+
+BOX 9 <w:txbxContent xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex" xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex" xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex" xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex" xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex" xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex" xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex" xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex" xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:aink="http://schemas.microsoft.com/office/drawing/2016/ink" xmlns:am3d="http://schemas.microsoft.com/office/drawing/2017/model3d" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:oel="http://schemas.microsoft.com/office/2019/extlst" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:w16cex="http://schemas.microsoft.com/office/word/2018/wordml/cex" xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid" xmlns:w16="http://schemas.microsoft.com/office/word/2018/wordml" xmlns:w16du="http://schemas.microsoft.com/office/word/2023/wordml/word16du" xmlns:w16sdtdh="http://schemas.microsoft.com/office/word/2020/wordml/sdtdatahash" xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape">
+  <w:p w14:paraId="7FF61E70" w14:textId="03951DA8" w:rsidR="00B301F7" w:rsidRPr="00B301F7" w:rsidRDefault="00B301F7" w:rsidP="00B301F7">
+    <w:pPr>
+      <w:ind w:left="567" w:hanging="283"/>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:b/>
+        <w:bCs/>
+        <w:sz w:val="32"/>
+        <w:szCs w:val="32"/>
+        <w:lang w:val="es-PE"/>
+      </w:rPr>
+    </w:pPr>
+    <w:r>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:b/>
+        <w:bCs/>
+        <w:sz w:val="32"/>
+        <w:szCs w:val="32"/>
+        <w:lang w:val="es-PE"/>
+      </w:rPr>
+      <w:t>3.</w:t>
+    </w:r>
+    <w:r>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:b/>
+        <w:bCs/>
+        <w:sz w:val="32"/>
+        <w:szCs w:val="32"/>
+        <w:lang w:val="es-PE"/>
+      </w:rPr>
+      <w:t xml:space="preserve"> </w:t>
+    </w:r>
+    <w:r>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:b/>
+        <w:bCs/>
+        <w:sz w:val="32"/>
+        <w:szCs w:val="32"/>
+        <w:lang w:val="es-PE"/>
+      </w:rPr>
+      <w:t>DECIDIR PROPUESTA</w:t>
+    </w:r>
+    <w:r w:rsidRPr="00B301F7">
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:b/>
+        <w:bCs/>
+        <w:sz w:val="32"/>
+        <w:szCs w:val="32"/>
+        <w:lang w:val="es-PE"/>
+      </w:rPr>
+      <w:t xml:space="preserve"> </w:t>
+    </w:r>
+  </w:p>
+  <w:p w14:paraId="1FFAAF1E" w14:textId="77777777" w:rsidR="00B301F7" w:rsidRDefault="00B301F7" w:rsidP="00B301F7"/>
+</w:txbxContent>
+
+
+BOX 10 <w:txbxContent xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex" xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex" xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex" xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex" xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex" xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex" xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex" xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex" xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:aink="http://schemas.microsoft.com/office/drawing/2016/ink" xmlns:am3d="http://schemas.microsoft.com/office/drawing/2017/model3d" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:oel="http://schemas.microsoft.com/office/2019/extlst" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:w16cex="http://schemas.microsoft.com/office/word/2018/wordml/cex" xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid" xmlns:w16="http://schemas.microsoft.com/office/word/2018/wordml" xmlns:w16du="http://schemas.microsoft.com/office/word/2023/wordml/word16du" xmlns:w16sdtdh="http://schemas.microsoft.com/office/word/2020/wordml/sdtdatahash" xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape">
+  <w:p w14:paraId="0162EA9A" w14:textId="4A4C004D" w:rsidR="00B301F7" w:rsidRPr="00B301F7" w:rsidRDefault="00B301F7" w:rsidP="00B301F7">
+    <w:pPr>
+      <w:ind w:left="284"/>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:b/>
+        <w:bCs/>
+        <w:sz w:val="32"/>
+        <w:szCs w:val="32"/>
+        <w:lang w:val="es-PE"/>
+      </w:rPr>
+    </w:pPr>
+    <w:r>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:b/>
+        <w:bCs/>
+        <w:sz w:val="32"/>
+        <w:szCs w:val="32"/>
+        <w:lang w:val="es-PE"/>
+      </w:rPr>
+      <w:t>4. EJECUTAR</w:t>
+    </w:r>
+    <w:r w:rsidRPr="00B301F7">
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:b/>
+        <w:bCs/>
+        <w:sz w:val="32"/>
+        <w:szCs w:val="32"/>
+        <w:lang w:val="es-PE"/>
+      </w:rPr>
+      <w:t xml:space="preserve"> </w:t>
+    </w:r>
+  </w:p>
+  <w:p w14:paraId="4ACED76F" w14:textId="77777777" w:rsidR="00B301F7" w:rsidRDefault="00B301F7" w:rsidP="00B301F7"/>
+</w:txbxContent>
+
+
+BOX 11 <w:txbxContent xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex" xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex" xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex" xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex" xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex" xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex" xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex" xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex" xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:aink="http://schemas.microsoft.com/office/drawing/2016/ink" xmlns:am3d="http://schemas.microsoft.com/office/drawing/2017/model3d" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:oel="http://schemas.microsoft.com/office/2019/extlst" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:w16cex="http://schemas.microsoft.com/office/word/2018/wordml/cex" xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid" xmlns:w16="http://schemas.microsoft.com/office/word/2018/wordml" xmlns:w16du="http://schemas.microsoft.com/office/word/2023/wordml/word16du" xmlns:w16sdtdh="http://schemas.microsoft.com/office/word/2020/wordml/sdtdatahash" xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape">
+  <w:p w14:paraId="0162EA9A" w14:textId="4A4C004D" w:rsidR="00B301F7" w:rsidRPr="00B301F7" w:rsidRDefault="00B301F7" w:rsidP="00B301F7">
+    <w:pPr>
+      <w:ind w:left="284"/>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:b/>
+        <w:bCs/>
+        <w:sz w:val="32"/>
+        <w:szCs w:val="32"/>
+        <w:lang w:val="es-PE"/>
+      </w:rPr>
+    </w:pPr>
+    <w:r>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:b/>
+        <w:bCs/>
+        <w:sz w:val="32"/>
+        <w:szCs w:val="32"/>
+        <w:lang w:val="es-PE"/>
+      </w:rPr>
+      <w:t>4</w:t>
+    </w:r>
+    <w:r>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:b/>
+        <w:bCs/>
+        <w:sz w:val="32"/>
+        <w:szCs w:val="32"/>
+        <w:lang w:val="es-PE"/>
+      </w:rPr>
+      <w:t xml:space="preserve">. </w:t>
+    </w:r>
+    <w:r>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:b/>
+        <w:bCs/>
+        <w:sz w:val="32"/>
+        <w:szCs w:val="32"/>
+        <w:lang w:val="es-PE"/>
+      </w:rPr>
+      <w:t>EJECUTAR</w:t>
+    </w:r>
+    <w:r w:rsidRPr="00B301F7">
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:b/>
+        <w:bCs/>
+        <w:sz w:val="32"/>
+        <w:szCs w:val="32"/>
+        <w:lang w:val="es-PE"/>
+      </w:rPr>
+      <w:t xml:space="preserve"> </w:t>
+    </w:r>
+  </w:p>
+  <w:p w14:paraId="4ACED76F" w14:textId="77777777" w:rsidR="00B301F7" w:rsidRDefault="00B301F7" w:rsidP="00B301F7"/>
+</w:txbxContent>
+
+
+BOX 12 <w:txbxContent xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex" xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex" xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex" xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex" xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex" xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex" xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex" xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex" xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:aink="http://schemas.microsoft.com/office/drawing/2016/ink" xmlns:am3d="http://schemas.microsoft.com/office/drawing/2017/model3d" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:oel="http://schemas.microsoft.com/office/2019/extlst" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:w16cex="http://schemas.microsoft.com/office/word/2018/wordml/cex" xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid" xmlns:w16="http://schemas.microsoft.com/office/word/2018/wordml" xmlns:w16du="http://schemas.microsoft.com/office/word/2023/wordml/word16du" xmlns:w16sdtdh="http://schemas.microsoft.com/office/word/2020/wordml/sdtdatahash" xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape">
+  <w:p w14:paraId="3E7D6A65" w14:textId="67C1EBA5" w:rsidR="0014094F" w:rsidRPr="001909B4" w:rsidRDefault="0014094F" w:rsidP="0014094F">
+    <w:pPr>
+      <w:jc w:val="center"/>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:b/>
+        <w:bCs/>
+        <w:color w:val="0000FF"/>
+        <w:sz w:val="28"/>
+        <w:szCs w:val="28"/>
+      </w:rPr>
+    </w:pPr>
+    <w:r w:rsidRPr="001909B4">
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:b/>
+        <w:bCs/>
+        <w:color w:val="0000FF"/>
+        <w:sz w:val="28"/>
+        <w:szCs w:val="28"/>
+      </w:rPr>
+      <w:t>DIBUJO / ESQUEMA / DIAGRAMA</w:t>
+    </w:r>
+    <w:r w:rsidR="007F38F6">
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:b/>
+        <w:bCs/>
+        <w:color w:val="0000FF"/>
+        <w:sz w:val="28"/>
+        <w:szCs w:val="28"/>
+      </w:rPr>
+      <w:t xml:space="preserve"> DE PROPUESTA</w:t>
+    </w:r>
+  </w:p>
+  <w:p w14:paraId="6E6CA412" w14:textId="4372E14C" w:rsidR="00A41F21" w:rsidRPr="001B79F2" w:rsidRDefault="00A41F21" w:rsidP="00A41F21">
+    <w:pPr>
+      <w:pStyle w:val="Prrafodelista"/>
+      <w:ind w:left="360"/>
+      <w:jc w:val="center"/>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:b/>
+        <w:bCs/>
+        <w:color w:val="000000"/>
+        <w:sz w:val="20"/>
+        <w:szCs w:val="20"/>
+      </w:rPr>
+    </w:pPr>
+    <w:r w:rsidRPr="001B79F2">
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:b/>
+        <w:bCs/>
+        <w:color w:val="000000"/>
+      </w:rPr>
+      <w:t>(</w:t>
+    </w:r>
+    <w:r w:rsidRPr="001B79F2">
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:b/>
+        <w:bCs/>
+        <w:color w:val="000000"/>
+        <w:sz w:val="20"/>
+        <w:szCs w:val="20"/>
+      </w:rPr>
+      <w:t xml:space="preserve">Adicionar </w:t>
+    </w:r>
+    <w:r w:rsidR="003C7426">
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:b/>
+        <w:bCs/>
+        <w:color w:val="000000"/>
+        <w:sz w:val="20"/>
+        <w:szCs w:val="20"/>
+      </w:rPr>
+      <w:t xml:space="preserve">las </w:t>
+    </w:r>
+    <w:r w:rsidRPr="001B79F2">
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:b/>
+        <w:bCs/>
+        <w:color w:val="000000"/>
+        <w:sz w:val="20"/>
+        <w:szCs w:val="20"/>
+      </w:rPr>
+      <w:t>p&#225;ginas que sean necesarias)</w:t>
+    </w:r>
+  </w:p>
+  <w:p w14:paraId="2FF224F1" w14:textId="77777777" w:rsidR="0014094F" w:rsidRPr="001909B4" w:rsidRDefault="0014094F" w:rsidP="008219EB">
+    <w:pPr>
+      <w:jc w:val="center"/>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:b/>
+        <w:bCs/>
+        <w:color w:val="0000FF"/>
+        <w:sz w:val="28"/>
+        <w:szCs w:val="28"/>
+      </w:rPr>
+    </w:pPr>
+  </w:p>
+</w:txbxContent>
+
+
+BOX 13 <w:txbxContent xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex" xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex" xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex" xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex" xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex" xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex" xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex" xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex" xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:aink="http://schemas.microsoft.com/office/drawing/2016/ink" xmlns:am3d="http://schemas.microsoft.com/office/drawing/2017/model3d" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:oel="http://schemas.microsoft.com/office/2019/extlst" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:w16cex="http://schemas.microsoft.com/office/word/2018/wordml/cex" xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid" xmlns:w16="http://schemas.microsoft.com/office/word/2018/wordml" xmlns:w16du="http://schemas.microsoft.com/office/word/2023/wordml/word16du" xmlns:w16sdtdh="http://schemas.microsoft.com/office/word/2020/wordml/sdtdatahash" xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape">
+  <w:p w14:paraId="3E7D6A65" w14:textId="67C1EBA5" w:rsidR="0014094F" w:rsidRPr="001909B4" w:rsidRDefault="0014094F" w:rsidP="0014094F">
+    <w:pPr>
+      <w:jc w:val="center"/>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:b/>
+        <w:bCs/>
+        <w:color w:val="0000FF"/>
+        <w:sz w:val="28"/>
+        <w:szCs w:val="28"/>
+      </w:rPr>
+    </w:pPr>
+    <w:r w:rsidRPr="001909B4">
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:b/>
+        <w:bCs/>
+        <w:color w:val="0000FF"/>
+        <w:sz w:val="28"/>
+        <w:szCs w:val="28"/>
+      </w:rPr>
+      <w:t>DIBUJO / ESQUEMA / DIAGRAMA</w:t>
+    </w:r>
+    <w:r w:rsidR="007F38F6">
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:b/>
+        <w:bCs/>
+        <w:color w:val="0000FF"/>
+        <w:sz w:val="28"/>
+        <w:szCs w:val="28"/>
+      </w:rPr>
+      <w:t xml:space="preserve"> DE PROPUESTA</w:t>
+    </w:r>
+  </w:p>
+  <w:p w14:paraId="6E6CA412" w14:textId="4372E14C" w:rsidR="00A41F21" w:rsidRPr="001B79F2" w:rsidRDefault="00A41F21" w:rsidP="00A41F21">
+    <w:pPr>
+      <w:pStyle w:val="Prrafodelista"/>
+      <w:ind w:left="360"/>
+      <w:jc w:val="center"/>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:b/>
+        <w:bCs/>
+        <w:color w:val="000000"/>
+        <w:sz w:val="20"/>
+        <w:szCs w:val="20"/>
+      </w:rPr>
+    </w:pPr>
+    <w:r w:rsidRPr="001B79F2">
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:b/>
+        <w:bCs/>
+        <w:color w:val="000000"/>
+      </w:rPr>
+      <w:t>(</w:t>
+    </w:r>
+    <w:r w:rsidRPr="001B79F2">
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:b/>
+        <w:bCs/>
+        <w:color w:val="000000"/>
+        <w:sz w:val="20"/>
+        <w:szCs w:val="20"/>
+      </w:rPr>
+      <w:t xml:space="preserve">Adicionar </w:t>
+    </w:r>
+    <w:r w:rsidR="003C7426">
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:b/>
+        <w:bCs/>
+        <w:color w:val="000000"/>
+        <w:sz w:val="20"/>
+        <w:szCs w:val="20"/>
+      </w:rPr>
+      <w:t xml:space="preserve">las </w:t>
+    </w:r>
+    <w:r w:rsidRPr="001B79F2">
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:b/>
+        <w:bCs/>
+        <w:color w:val="000000"/>
+        <w:sz w:val="20"/>
+        <w:szCs w:val="20"/>
+      </w:rPr>
+      <w:t>p&#225;ginas que sean necesarias)</w:t>
+    </w:r>
+  </w:p>
+  <w:p w14:paraId="2FF224F1" w14:textId="77777777" w:rsidR="0014094F" w:rsidRPr="001909B4" w:rsidRDefault="0014094F" w:rsidP="008219EB">
+    <w:pPr>
+      <w:jc w:val="center"/>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:b/>
+        <w:bCs/>
+        <w:color w:val="0000FF"/>
+        <w:sz w:val="28"/>
+        <w:szCs w:val="28"/>
+      </w:rPr>
+    </w:pPr>
+  </w:p>
+</w:txbxContent>
+
+
+BOX 14 <w:txbxContent xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex" xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex" xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex" xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex" xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex" xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex" xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex" xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex" xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:aink="http://schemas.microsoft.com/office/drawing/2016/ink" xmlns:am3d="http://schemas.microsoft.com/office/drawing/2017/model3d" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:oel="http://schemas.microsoft.com/office/2019/extlst" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:w16cex="http://schemas.microsoft.com/office/word/2018/wordml/cex" xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid" xmlns:w16="http://schemas.microsoft.com/office/word/2018/wordml" xmlns:w16du="http://schemas.microsoft.com/office/word/2023/wordml/word16du" xmlns:w16sdtdh="http://schemas.microsoft.com/office/word/2020/wordml/sdtdatahash" xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape">
+  <w:p w14:paraId="5996614E" w14:textId="391B67B0" w:rsidR="00B301F7" w:rsidRPr="00B301F7" w:rsidRDefault="00B301F7" w:rsidP="00B301F7">
+    <w:pPr>
+      <w:ind w:left="284"/>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:b/>
+        <w:bCs/>
+        <w:sz w:val="32"/>
+        <w:szCs w:val="32"/>
+        <w:lang w:val="es-PE"/>
+      </w:rPr>
+    </w:pPr>
+    <w:r>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:b/>
+        <w:bCs/>
+        <w:sz w:val="32"/>
+        <w:szCs w:val="32"/>
+        <w:lang w:val="es-PE"/>
+      </w:rPr>
+      <w:t>5. CONTROLAR</w:t>
+    </w:r>
+    <w:r w:rsidRPr="00B301F7">
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:b/>
+        <w:bCs/>
+        <w:sz w:val="32"/>
+        <w:szCs w:val="32"/>
+        <w:lang w:val="es-PE"/>
+      </w:rPr>
+      <w:t xml:space="preserve"> </w:t>
+    </w:r>
+  </w:p>
+  <w:p w14:paraId="791FDABA" w14:textId="77777777" w:rsidR="00B301F7" w:rsidRDefault="00B301F7" w:rsidP="00B301F7"/>
+</w:txbxContent>
+
+
+BOX 15 <w:txbxContent xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex" xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex" xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex" xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex" xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex" xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex" xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex" xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex" xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:aink="http://schemas.microsoft.com/office/drawing/2016/ink" xmlns:am3d="http://schemas.microsoft.com/office/drawing/2017/model3d" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:oel="http://schemas.microsoft.com/office/2019/extlst" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:w16cex="http://schemas.microsoft.com/office/word/2018/wordml/cex" xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid" xmlns:w16="http://schemas.microsoft.com/office/word/2018/wordml" xmlns:w16du="http://schemas.microsoft.com/office/word/2023/wordml/word16du" xmlns:w16sdtdh="http://schemas.microsoft.com/office/word/2020/wordml/sdtdatahash" xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape">
+  <w:p w14:paraId="5996614E" w14:textId="391B67B0" w:rsidR="00B301F7" w:rsidRPr="00B301F7" w:rsidRDefault="00B301F7" w:rsidP="00B301F7">
+    <w:pPr>
+      <w:ind w:left="284"/>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:b/>
+        <w:bCs/>
+        <w:sz w:val="32"/>
+        <w:szCs w:val="32"/>
+        <w:lang w:val="es-PE"/>
+      </w:rPr>
+    </w:pPr>
+    <w:r>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:b/>
+        <w:bCs/>
+        <w:sz w:val="32"/>
+        <w:szCs w:val="32"/>
+        <w:lang w:val="es-PE"/>
+      </w:rPr>
+      <w:t>5</w:t>
+    </w:r>
+    <w:r>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:b/>
+        <w:bCs/>
+        <w:sz w:val="32"/>
+        <w:szCs w:val="32"/>
+        <w:lang w:val="es-PE"/>
+      </w:rPr>
+      <w:t xml:space="preserve">. </w:t>
+    </w:r>
+    <w:r>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:b/>
+        <w:bCs/>
+        <w:sz w:val="32"/>
+        <w:szCs w:val="32"/>
+        <w:lang w:val="es-PE"/>
+      </w:rPr>
+      <w:t>CONTROL</w:t>
+    </w:r>
+    <w:r>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:b/>
+        <w:bCs/>
+        <w:sz w:val="32"/>
+        <w:szCs w:val="32"/>
+        <w:lang w:val="es-PE"/>
+      </w:rPr>
+      <w:t>AR</w:t>
+    </w:r>
+    <w:r w:rsidRPr="00B301F7">
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:b/>
+        <w:bCs/>
+        <w:sz w:val="32"/>
+        <w:szCs w:val="32"/>
+        <w:lang w:val="es-PE"/>
+      </w:rPr>
+      <w:t xml:space="preserve"> </w:t>
+    </w:r>
+  </w:p>
+  <w:p w14:paraId="791FDABA" w14:textId="77777777" w:rsidR="00B301F7" w:rsidRDefault="00B301F7" w:rsidP="00B301F7"/>
+</w:txbxContent>
+
+
+BOX 16 <w:txbxContent xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex" xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex" xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex" xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex" xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex" xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex" xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex" xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex" xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:aink="http://schemas.microsoft.com/office/drawing/2016/ink" xmlns:am3d="http://schemas.microsoft.com/office/drawing/2017/model3d" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:oel="http://schemas.microsoft.com/office/2019/extlst" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:w16cex="http://schemas.microsoft.com/office/word/2018/wordml/cex" xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid" xmlns:w16="http://schemas.microsoft.com/office/word/2018/wordml" xmlns:w16du="http://schemas.microsoft.com/office/word/2023/wordml/word16du" xmlns:w16sdtdh="http://schemas.microsoft.com/office/word/2020/wordml/sdtdatahash" xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape">
+  <w:p w14:paraId="4FE1A2FC" w14:textId="7765C124" w:rsidR="00B301F7" w:rsidRPr="00B301F7" w:rsidRDefault="00B301F7" w:rsidP="00B301F7">
+    <w:pPr>
+      <w:ind w:left="284"/>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:b/>
+        <w:bCs/>
+        <w:sz w:val="32"/>
+        <w:szCs w:val="32"/>
+        <w:lang w:val="es-PE"/>
+      </w:rPr>
+    </w:pPr>
+    <w:r>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:b/>
+        <w:bCs/>
+        <w:sz w:val="32"/>
+        <w:szCs w:val="32"/>
+        <w:lang w:val="es-PE"/>
+      </w:rPr>
+      <w:t>6. VALORAR</w:t>
+    </w:r>
+    <w:r w:rsidRPr="00B301F7">
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:b/>
+        <w:bCs/>
+        <w:sz w:val="32"/>
+        <w:szCs w:val="32"/>
+        <w:lang w:val="es-PE"/>
+      </w:rPr>
+      <w:t xml:space="preserve"> </w:t>
+    </w:r>
+  </w:p>
+  <w:p w14:paraId="1E367FEE" w14:textId="77777777" w:rsidR="00B301F7" w:rsidRDefault="00B301F7" w:rsidP="00B301F7"/>
+</w:txbxContent>
+
+
+BOX 17 <w:txbxContent xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex" xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex" xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex" xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex" xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex" xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex" xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex" xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex" xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:aink="http://schemas.microsoft.com/office/drawing/2016/ink" xmlns:am3d="http://schemas.microsoft.com/office/drawing/2017/model3d" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:oel="http://schemas.microsoft.com/office/2019/extlst" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:w16cex="http://schemas.microsoft.com/office/word/2018/wordml/cex" xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid" xmlns:w16="http://schemas.microsoft.com/office/word/2018/wordml" xmlns:w16du="http://schemas.microsoft.com/office/word/2023/wordml/word16du" xmlns:w16sdtdh="http://schemas.microsoft.com/office/word/2020/wordml/sdtdatahash" xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape">
+  <w:p w14:paraId="4FE1A2FC" w14:textId="7765C124" w:rsidR="00B301F7" w:rsidRPr="00B301F7" w:rsidRDefault="00B301F7" w:rsidP="00B301F7">
+    <w:pPr>
+      <w:ind w:left="284"/>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:b/>
+        <w:bCs/>
+        <w:sz w:val="32"/>
+        <w:szCs w:val="32"/>
+        <w:lang w:val="es-PE"/>
+      </w:rPr>
+    </w:pPr>
+    <w:r>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:b/>
+        <w:bCs/>
+        <w:sz w:val="32"/>
+        <w:szCs w:val="32"/>
+        <w:lang w:val="es-PE"/>
+      </w:rPr>
+      <w:t>6</w:t>
+    </w:r>
+    <w:r>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:b/>
+        <w:bCs/>
+        <w:sz w:val="32"/>
+        <w:szCs w:val="32"/>
+        <w:lang w:val="es-PE"/>
+      </w:rPr>
+      <w:t xml:space="preserve">. </w:t>
+    </w:r>
+    <w:r>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:b/>
+        <w:bCs/>
+        <w:sz w:val="32"/>
+        <w:szCs w:val="32"/>
+        <w:lang w:val="es-PE"/>
+      </w:rPr>
+      <w:t>VALOR</w:t>
+    </w:r>
+    <w:r>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:b/>
+        <w:bCs/>
+        <w:sz w:val="32"/>
+        <w:szCs w:val="32"/>
+        <w:lang w:val="es-PE"/>
+      </w:rPr>
+      <w:t>AR</w:t>
+    </w:r>
+    <w:r w:rsidRPr="00B301F7">
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        <w:b/>
+        <w:bCs/>
+        <w:sz w:val="32"/>
+        <w:szCs w:val="32"/>
+        <w:lang w:val="es-PE"/>
+      </w:rPr>
+      <w:t xml:space="preserve"> </w:t>
+    </w:r>
+  </w:p>
+  <w:p w14:paraId="1E367FEE" w14:textId="77777777" w:rsidR="00B301F7" w:rsidRDefault="00B301F7" w:rsidP="00B301F7"/>
+</w:txbxContent>

@@ -1,0 +1,134 @@
+BODY 0: p P0 T  
+BODY 1: p P1 T 
+BODY 2: p P2 T 
+BODY 3: p P3 T 
+BODY 4: p P4 T 
+BODY 5: p P5 T 
+BODY 6: p P6 T 
+BODY 7: p P7 T 
+BODY 8: p P8 T 
+BODY 9: p P9 T 
+BODY 10: p P10 T 
+BODY 11: p P11 T 
+BODY 12: p P12 T 
+BODY 13: p P13 T 
+BODY 14: p P14 T 
+BODY 15: p P15 T 
+BODY 16: p P16 T 
+BODY 17: p P17 T 
+BODY 18: p P18 T 
+BODY 19: p P19 T 
+BODY 20: p P20 T 
+BODY 21: p P21 T 
+BODY 22: p P22 T 
+BODY 23: p P23 T 
+BODY 24: p P24 T 
+BODY 25: p P25 T 
+BODY 26: p P26 T 
+BODY 27: p P27 T 
+BODY 28: p P28 T 
+BODY 29: p P29 T 
+BODY 30: p P30 T 
+BODY 31: p P31 T 
+BODY 32: p P32 T 
+BODY 33: p P33 T 
+BODY 34: p P34 T 
+BODY 35: p P35 T 
+BODY 36: p P36 T 
+BODY 37: p P37 T 
+BODY 38: p P38 T 
+BODY 39: p P39 T DATOS DEL ESTUDIANTE
+BODY 40: p P40 T 
+BODY 41: tbl P T0 Apellidos y Nombres | : |    | ID: | Dirección Zonal/CFP | :  | Carrera: | Semestre: | Curso/  | Mód | . Formativo | : | Tema de Trabajo |  Final | :    
+BODY 42: p P41 T 
+BODY 43: p P42 T 
+BODY 44: p P43 T INFORMACIÓN | INFORMACIÓN
+BODY 45: p P44 T 
+BODY 46: p P45 T Identifica la problemática del caso práctico propuesto.
+BODY 47: p P46 T 
+BODY 48: p P47 T 
+BODY 49: p P48 T Identifica  | propuesta de solución y evidencias | .
+BODY 50: p P49 T 
+BODY 51: p P50 T 
+BODY 52: p P51 T 
+BODY 53: p P52 T Respuestas a  | preguntas guía |  
+BODY 54: p P53 T 
+BODY 55: p P54 T Durante  | el análisis y  | estudio |  del caso práctico | , debes obtener las respuestas a las interrogantes: |  
+BODY 56: p P55 T  
+BODY 57: tbl P T1 Pregunta 0 | 1 | : | Pregunta 0 | 2 | : |   |   | Pregunta 0 | 3: |   |   | Pregunta 0 | 4: |   |   | Pregunta 0 | 5: |   |  
+BODY 58: p P56 T 
+BODY 59: p P57 T 
+BODY 60: p P58 T 
+BODY 61: p P59 T 2.  | PLANIFICACIÓN |  DEL TRABAJO |   | 2.  | PLANIFICA | CIÓN |  DEL TRABAJO |  
+BODY 62: p P60 T 
+BODY 63: p P61 T Cronograma de actividades:
+BODY 64: tbl P T2 N° | ACTI | VIDADE | S | CRONOGRAMA
+BODY 65: p P62 T 
+BODY 66: p P63 T 
+BODY 67: p P64 T Lista de recursos |  necesarios | :
+BODY 68: p P65 T 
+BODY 69: p P66 T 
+BODY 70: p P67 T 
+BODY 71: tbl P T3 MÁQUINAS Y EQUIPOS | Descripción | Cantidad
+BODY 72: p P68 T 
+BODY 73: p P69 T 
+BODY 74: p P70 T 
+BODY 75: p P71 T 
+BODY 76: p P72 T 
+BODY 77: p P73 T 
+BODY 78: p P74 T 
+BODY 79: p P75 T 
+BODY 80: p P76 T 
+BODY 81: tbl P T4 HERRAMIENTAS E INSTRUMENTOS | Descripción | Cantidad
+BODY 82: p P77 T 
+BODY 83: p P78 T 
+BODY 84: p P79 T 
+BODY 85: p P80 T 
+BODY 86: p P81 T 
+BODY 87: p P82 T 
+BODY 88: p P83 T 
+BODY 89: p P84 T 
+BODY 90: p P85 T 
+BODY 91: tbl P T5 MATERIALES E INSUMOS | Descripción | Cantidad
+BODY 92: p P86 T 
+BODY 93: p P87 T 
+BODY 94: p P88 T 
+BODY 95: p P89 T 3. DECIDIR PROPUESTA |   | 3. |   | DECIDIR PROPUESTA |   |  
+BODY 96: p P90 T 
+BODY 97: p P91 T Describe la propuesta determinada para la solución del caso |  p | ráctico
+BODY 98: p P92 T 
+BODY 99: tbl P T6 PROPUESTA |   | DE SOLUCIÓN
+BODY 100: p P93 T 
+BODY 101: p P94 T 
+BODY 102: p P95 T 4. EJECUTAR |   | 4 | .  | EJECUTAR |  
+BODY 103: p P96 T 
+BODY 104: p P97 T R | esolve | r |  el caso práctico, utilizando como referencia el problema propuesto y las preguntas guía proporcionadas para orientar el desarrollo. 
+BODY 105: p P98 T 
+BODY 106: p P99 T F | undamentar sus propuestas en los conocimientos adquiridos a lo largo del curso, aplicando lo aprendido en las tareas y operaciones descritas en los contenidos curriculares.
+BODY 107: p P100 T 
+BODY 108: p P101 T INSTRUCCIONES: |   | S | er lo más explícito posible. Los gráficos ayudan a transmitir mejor las ideas.  | Tomar en cuenta |  los aspectos de calidad, medio ambiente y SHI.
+BODY 109: p P102 T 
+BODY 110: tbl P T7 OPERACIONES / PASOS / SUBPASOS | NORMAS TÉCNICAS - ESTANDARES / SEGURIDAD / MEDIO AMBIENTE 
+BODY 111: p P103 T 
+BODY 112: p P104 T 
+BODY 113: tbl P T8 [ | NOMBRE DEL TEMA DEL TRABAJO FINAL | ] | [APELLIDOS Y NOMBRES] | [ESCALA]
+BODY 114: p P105 T DIBUJO / ESQUEMA / DIAGRAMA |  DE PROPUESTA | ( | Adicionar  | las  | páginas que sean necesarias) | DIBUJO / ESQUEMA / DIAGRAMA |  DE PROPUESTA | ( | Adicionar  | las  | páginas que sean necesarias)
+BODY 115: p P106 T 
+BODY 116: p P107 T 5. CONTROLAR |   | 5 | .  | CONTROL | AR |  
+BODY 117: p P108 T Verifica | r el cumplimiento de  | los procesos desarrollados en la propuesta de solución del caso práctico.
+BODY 118: tbl P T9  EVIDENCIAS | CUMPLE | NO CUMPLE | ¿Se identificó claramente la problemática del caso práctico? | ☐ | ☐ | ¿Se desarrolló las condiciones de los requerimientos solicitados? | ☐ | ☐ | ¿Se formularon respuestas claras y fundamentadas a todas las preguntas guía? |
+BODY 119: p P109 T 
+BODY 120: p P110 T 6. VALORAR |   | 6 | .  | VALOR | AR |  
+BODY 121: p P111 T Califica |   | el impacto que representa  | la |  propuesta  | de solución  | ante la situación planteada  | en |  el caso práctico.
+BODY 122: tbl P T10 CRITERIO DE EVALUACIÓN | DESCRIPCIÓN DEL CRITERIO | PUNTUACIÓN MÁXIMA | PUNTAJE | CALIFICADO POR EL ESTUDIANTE | Identificación del problema | Claridad en la identificación del problema planteado | . | 3 | Relevancia de la  | propuesta de solución | La propues
+BODY 123: p P112 T 
+BODY 124: p P113 T 
+BODY 125: p P114 T 
+BODY 126: p P115 T 
+BODY 127: p P116 T 
+BODY 128: p P117 T 
+BODY 129: p P118 T 
+BODY 130: p P119 T 
+BODY 131: p P120 T 
+BODY 132: p P121 T 
+BODY 133: sectPr P T 
